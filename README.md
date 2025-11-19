@@ -131,7 +131,6 @@ Navigation (Tools)
 
 <img src="https://github-profile-trophy.vercel.app?username=yuseiff&theme=tokyonight&column=-1&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophy graph" />
 </div>
-
 <!-- FOOTER -->
 
 <div align="center">
