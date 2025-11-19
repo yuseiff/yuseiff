@@ -135,5 +135,5 @@ Navigation (Tools)
 <!-- FOOTER -->
 
 <div align="center">
-<img style="width: 100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dcylinder%26height%3D100%26section%3Dfooter%26reversal%3Dtrue%26fontSize%3D30%26fontColor%3DFFFFFF%26fontAlign%3D50%26fontAlignY%3D50%26stroke%3D-%26animation%3Dtwinkling%26desc%3DEnd%2520Transmission%26descSize%3D20%26descAlign%3D50%26descAlignY%3D70%26textBg%3Dfalse%26theme%3Dtokyonight" />
+<img style="width: 100%" src="[https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dcylinder%26height%3D100%26section%3Dfooter%26reversal%3Dtrue%26fontSize%3D30%26fontColor%3DFFFFFF%26fontAlign%3D50%26fontAlignY%3D50%26stroke%3D-%26animation%3Dtwinkling%26desc%3DEnd%2520Transmission%26descSize%3D20%26descAlign%3D50%26descAlignY%3D70%26textBg%3Dfalse%26theme%3Dtokyonight](https://capsule-render.vercel.app/api?type=cylinder&height=100&section=footer&reversal=true&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=End%20Transmission&descSize=20&descAlign=50&descAlignY=70&textBg=false&theme=tokyonight)" />
 </div>
