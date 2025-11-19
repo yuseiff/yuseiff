@@ -13,15 +13,20 @@
 <p>I am passionate about data, systems, and building things that work.</p>
 <br />
 <p align="center">
-  <a href="mailto:yosefhesen56@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/youssef-maaod-989a17257/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://orcid.org/0009-0008-7980-9123"><img src="https://skillicons.dev/icons?i=orcid" /></a>
-  <a href="https://www.researchgate.net/profile/Youssef-Maaod?ev=hdr_xprf"><img src="https://skillicons.dev/icons?i=researchgate" /></a>
-  <a href="https://www.hackerrank.com/profile/Yosefhusseiny"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
-  <a href="https://www.instagram.com/youssef_husseinyy?igsh=ZGd1OWF4YzgwOTd3"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:yosefhesen56@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="50" width="50" alt="gmail" /></a>
+  <img width="10" />
+  <a href="https://www.linkedin.com/in/youssef-maaod-989a17257/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" width="50" alt="linkedin" /></a>
+  <img width="10" />
+  <a href="https://orcid.org/0009-0008-7980-9123"><img src="https://cdn.simpleicons.org/orcid/A6CE39" height="50" width="50" alt="orcid" /></a>
+  <img width="10" />
+  <a href="https://www.researchgate.net/profile/Youssef-Maaod?ev=hdr_xprf"><img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="50" width="50" alt="researchgate" /></a>
+  <img width="10" />
+  <a href="https://www.hackerrank.com/profile/Yosefhusseiny"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="50" width="50" alt="hackerrank" /></a>
+  <img width="10" />
+  <a href="https://www.instagram.com/youssef_husseinyy?igsh=ZGd1OWF4YzgwOTd3"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" width="50" alt="instagram" /></a>
 </p>
 <br />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yuseiff.yuseiff&left_color=darkgray&right_color=519F8A&left_text=Profile%20Views" alt="visitor badge" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yuseiff.yuseiff&left_color=darkgray&right_color=519F8A&left_text=Profile%20Stalkers" alt="visitor badge" />
 </td>
 <td valign="center">
 <img src="https://avatars.githubusercontent.com/u/111249341?v=4" width="250" style="border-radius: 50%;" alt="Youssef Avatar" />
