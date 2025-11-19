@@ -53,7 +53,7 @@
 </a>
 <img width="8" />
 <a href="https://www.hackerrank.com/profile/Yosefhusseiny">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="40" width="40" alt="hackerrank" />
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="40" width="40" alt="hackerrank" />
 </a>
 <img width="8" />
 <a href="https://www.instagram.com/youssef_husseinyy?igsh=ZGd1OWF4YzgwOTd3">
