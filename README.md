@@ -6,38 +6,37 @@
 
 <div align="center">
 <table>
-  <tr>
-    <td valign="center">
-      <h1>Hi there! 👋</h1>
-      <h2>Scientist, Researcher, Programmer, Engineer & Nerd</h2>
-      <br />
-      
-      <a href="mailto:yosefhesen56@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="40" alt="email" style="margin-right: 10px" />
-      </a>
-      <a href="https://www.linkedin.com/in/youssef-maaod-989a17257/">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" width="40" alt="linkedin" style="margin-right: 10px" />
-      </a>
-      <a href="https://orcid.org/https://orcid.org/0009-0008-7980-9123">
-        <img src="https://cdn.simpleicons.org/orcid/A6CE39" height="40" width="40" alt="orcid" style="margin-right: 10px" />
-      </a>
-      <a href="https://www.researchgate.net/profile/Youssef-Maaod?ev=hdr_xprf">
-        <img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="40" width="40" alt="researchgate" style="margin-right: 10px" />
-      </a>
-      <a href="https://www.hackerrank.com/profile/Yosefhusseiny">
-        <img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="40" width="40" alt="hackerrank" style="margin-right: 10px" />
-      </a>
-      <a href="https://www.instagram.com/youssef_husseinyy?igsh=ZGd1OWF4YzgwOTd3">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" width="40" alt="instagram" style="margin-right: 10px" />
-      </a>
-
-      <br /><br />
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=yuseiff.yuseiff&left_color=darkgray&right_color=519F8A&left_text=Profile%20Views" alt="visitor badge" />
-    </td>
-    <td valign="center">
-      <img src="https://avatars.githubusercontent.com/u/111249341?v=4" width="250" style="border-radius: 50%;" alt="Youssef Avatar" />
-    </td>
-  </tr>
+<tr>
+<td valign="center">
+<h1>Hi there! 👋</h1>
+<h2>Scientist, Researcher, Programmer, Engineer & Nerd</h2>
+<p>I am passionate about data, systems, and building things that work.</p>
+<br />
+<a href="mailto:yosefhesen56@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="40" alt="email" style="margin-right: 10px" />
+</a>
+<a href="https://www.linkedin.com/in/youssef-maaod-989a17257/">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" width="40" alt="linkedin" style="margin-right: 10px" />
+</a>
+<a href="https://orcid.org/0009-0008-7980-9123">
+<img src="https://cdn.simpleicons.org/orcid/A6CE39" height="40" width="40" alt="orcid" style="margin-right: 10px" />
+</a>
+<a href="https://www.researchgate.net/profile/Youssef-Maaod?ev=hdr_xprf">
+<img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="40" width="40" alt="researchgate" style="margin-right: 10px" />
+</a>
+<a href="https://www.hackerrank.com/profile/Yosefhusseiny">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="40" width="40" alt="hackerrank" style="margin-right: 10px" />
+</a>
+<a href="https://www.instagram.com/youssef_husseinyy?igsh=ZGd1OWF4YzgwOTd3">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" width="40" alt="instagram" style="margin-right: 10px" />
+</a>
+<br /><br />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yuseiff.yuseiff&left_color=darkgray&right_color=519F8A&left_text=Profile%20Views" alt="visitor badge" />
+</td>
+<td valign="center">
+<img src="https://avatars.githubusercontent.com/u/111249341?v=4" width="250" style="border-radius: 50%;" alt="Youssef Avatar" />
+</td>
+</tr>
 </table>
 </div>
 
