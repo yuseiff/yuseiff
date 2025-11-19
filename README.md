@@ -26,7 +26,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="40" width="40" alt="researchgate" />
   </a>
   <a href="https://www.hackerrank.com/profile/Yosefhusseiny">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" width="40" alt="hackerrank" />
+    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="50" width="50" alt="hackerrank" />
   </a>
   <a href="https://www.instagram.com/youssef_husseinyy?igsh=ZGd1OWF4YzgwOTd3">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" width="40" alt="instagram" />
