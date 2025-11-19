@@ -1,14 +1,14 @@
 <!-- DYNAMIC HEADER WITH SPACE THEME -->
 
 <div align="center">
-<img style="width: 100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26height%3D250%26section%3Dheader%26reversal%3Dfalse%26text%3DYoussef%2520Husseiny%26fontSize%3D64%26fontColor%3D519F8A%26fontAlign%3D50%26fontAlignY%3D35%26stroke%3D-%26animation%3Dtwinkling%26descSize%3D25%26descAlign%3D50%26descAlignY%3D60%26desc%3D🚀%20Exploring%20the%20Intersection%20of%20AI%20%26%20The%20Cosmos&textBg=false&theme=tokyonight" />
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Youssef%20Husseiny&fontSize=64&fontColor=519F8A&fontAlign=50&fontAlignY=35&stroke=-&animation=twinkling&descSize=25&descAlign=50&descAlignY=60&desc=🚀%20Exploring%20the%20Intersection%20of%20AI%20and%20The%20Cosmos&textBg=false&theme=tokyonight"/>
 </div>
 
 <!-- TYPING EFFECT -->
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26duration%3D3000%26pause%3D1000%26color%3D519F8A%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DAI%2BEngineer%2B%2526%2BResearcher%3BSpace%2BResearcher%2B%25F0%259F%2594%25AD%3BBuilding%2BIntelligent%2BSystems%3BProcessing%2BTelemetry%2BData...%3BSystem%2BOnline." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=519F8A&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Researcher;Space+Researcher+%F0%9F%94%AD;Building+Intelligent+Systems;Processing+Telemetry+Data...;System+Online." alt="Typing SVG"/>
 </a>
 </div>
 
@@ -69,7 +69,7 @@
 <!-- SPACE VISUAL + AVATAR -->
 <img src="https://media.licdn.com/dms/image/v2/D4D03AQGOZJhKgkbDVw/profile-displayphoto-shrink_400_400/B4DZQYVw7qHUAk-/0/1735575150382?e=1765411200&v=beta&t=XzsJeJQr7mWJwxw6sYR14pKjl5EE_2dpKJNLAkBxHSQ" width="220" style="border-radius: 50%; border: 4px solid #519F8A;" alt="Youssef Avatar" />
 <br /><br />
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZ5cnYydG1qZ21mOHB6Z21mOHB6Z21mOHB6Z21mOHB6Z21mOHB6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PivKx0z8d194pwbwF6/giphy.gif" width="100" alt="Planet Animation" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZ5cnYydG1qZ21mOHB6Z21mOHB6Z21mOHB6Z21mOHB6Z21mOHB6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PivKx0z8d194pwbwF6/giphy.gif" width="100" alt="Planet Animation" />
 </td>
 </tr>
 </table>
@@ -125,7 +125,7 @@ Navigation (Tools)
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=yuseiff&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="streak graph" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=footer&reversal=true&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=End%20Transmission&descSize=20&descAlign=50&descAlignY=70&textBg=false&theme=tokyonight" height="160" alt="streak graph" />
 
 <br /><br />
 
