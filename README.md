@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Scientist, Researcher, Porgrammer, Engineer and a Nerd</p>
+<h2 align="left">Scientist, Researcher, Porgrammer, Engineer and a Nerd</h2>
 
 ###
 
@@ -48,11 +48,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuseiff/yuseiff/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuseiff/yuseiff/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yuseiff/yuseiff/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/yuseiff/yuseiff/output/snake.svg" alt="Snake animation" />
 
 ###
 
