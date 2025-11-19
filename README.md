@@ -36,7 +36,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=yuseiff.yuseiff&left_color=darkgray&right_color=519F8A&left_text=Profile%20Stalkers" alt="visitor badge" />
 </td>
 <td valign="center">
-<img src="https://avatars.githubusercontent.com/u/111249341?v=4" width="250" style="border-radius: 50%;" alt="Youssef Avatar" />
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQGOZJhKgkbDVw/profile-displayphoto-shrink_400_400/B4DZQYVw7qHUAk-/0/1735575150382?e=1765411200&v=beta&t=XzsJeJQr7mWJwxw6sYR14pKjl5EE_2dpKJNLAkBxHSQ" width="250" style="border-radius: 50%;" alt="Youssef Avatar" />
 </td>
 </tr>
 </table>
