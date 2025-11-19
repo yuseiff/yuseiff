@@ -20,21 +20,20 @@
 <td width="55%" valign="center">
 
 👨‍🚀 Mission Log: Youssef
-
-class CosmicExplorer:
-    def __init__(self):
-        self.name = "Youssef Husseiny"
-        self.roles = ["AI Engineer", "Space Researcher"]
-        self.status = "Analyzing Data..."
-
-    def current_mission(self):
-        return {
-            "objective": "Build Robust AI Systems",
-            "target": "Space & Engineering",
-            "fuel": ["Coffee", "Code", "Physics"]
-        }
-
-
+   ```python
+    class CosmicExplorer:
+        def __init__(self):
+            self.name = "Youssef Husseiny"
+            self.roles = ["AI Engineer", "Space Researcher"]
+            self.status = "Analyzing Data..."
+    
+        def current_mission(self):
+            return {
+                "objective": "Build Robust AI Systems",
+                "target": "Space & Engineering",
+                "fuel": ["Coffee", "Code", "Physics"]
+            }
+```
 <p align="center">
 <!-- SOCIAL LINKS -->
 <a href="mailto:yosefhesen56@gmail.com">
