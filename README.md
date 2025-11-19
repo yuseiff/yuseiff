@@ -8,7 +8,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=519F8A&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Researcher;Space+Researcher+%F0%9F%94%AD;Building+Intelligent+Systems;Processing+Telemetry+Data...;System+Online." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=519F8A&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Researcher;Space+Researcher+%F0%9F%94%AD;Building+Intelligent+Systems;Processing+Telemetry+Data...;System+Online." alt="Typing SVG" alt="Typing SVG"/>
 </a>
 </div>
 
@@ -69,7 +69,7 @@
 <!-- SPACE VISUAL + AVATAR -->
 <img src="https://media.licdn.com/dms/image/v2/D4D03AQGOZJhKgkbDVw/profile-displayphoto-shrink_400_400/B4DZQYVw7qHUAk-/0/1735575150382?e=1765411200&v=beta&t=XzsJeJQr7mWJwxw6sYR14pKjl5EE_2dpKJNLAkBxHSQ" width="220" style="border-radius: 50%; border: 4px solid #519F8A;" alt="Youssef Avatar" />
 <br /><br />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZ5cnYydG1qZ21mOHB6Z21mOHB6Z21mOHB6Z21mOHB6Z21mOHB6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PivKx0z8d194pwbwF6/giphy.gif" width="100" alt="Planet Animation" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="100" alt="Rocket Animation" />
 </td>
 </tr>
 </table>
