@@ -111,27 +111,28 @@ Navigation (Tools)
 <!-- STATS DASHBOARD -->
 
 <div align="center">
-<h2>🛰️ Telemetry & Stats</h2>
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuseiff&locale=en&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=yuseiff&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />
-</td>
-</tr>
-</table>
+  <h2>🛰️ Telemetry & Stats</h2>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuseiff&locale=en&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yuseiff&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />
+      </td>
+    </tr>
+  </table>
 
-<br />
+  <br />
 
-<img src="https://streak-stats.demolab.com?user=yuseiff&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="streak graph" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=yuseiff&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  
+  <br /><br />
 
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app?username=yuseiff&theme=tokyonight&column=-1&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yuseiff&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy graph" />
 </div>
-
 <!-- FOOTER -->
 
 <div align="center">
