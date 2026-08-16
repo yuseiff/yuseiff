@@ -8,7 +8,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=519F8A&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Researcher;Space+Researcher+%F0%9F%94%AD;Building+Intelligent+Systems;Processing+Telemetry+Data...;System+Online." alt="Typing SVG" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=519F8A&center=true&vCenter=true&width=500&lines=AI+Researcher+%E2%80%94+Astro-AI;IAF+Emerging+Space+Leader+2026+%F0%9F%94%AD;Building+Intelligent+Systems;Processing+Telemetry+Data...;System+Online." alt="Typing SVG"/>
 </a>
 </div>
 
@@ -24,13 +24,13 @@
     class CosmicExplorer:
         def __init__(self):
             self.name = "Youssef Husseiny"
-            self.roles = ["AI Engineer", "Space Researcher"]
-            self.status = "Analyzing Data..."
-    
+            self.roles = ["AI Researcher", "Space Scientist"]
+            self.status = "Presenting at IAC 2026 🇹🇷"
+
         def current_mission(self):
             return {
-                "objective": "Build Robust AI Systems",
-                "target": "Space & Engineering",
+                "objective": "Bridge AI and Astrophysics",
+                "target": "Space & Data-Driven Discovery",
                 "fuel": ["Coffee", "Code", "Physics"]
             }
 ```
@@ -67,7 +67,7 @@
 </td>
 <td width="45%" valign="center" align="center">
 <!-- SPACE VISUAL + AVATAR -->
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQGOZJhKgkbDVw/profile-displayphoto-shrink_400_400/B4DZQYVw7qHUAk-/0/1735575150382?e=1765411200&v=beta&t=XzsJeJQr7mWJwxw6sYR14pKjl5EE_2dpKJNLAkBxHSQ" width="220" style="border-radius: 50%; border: 4px solid #519F8A;" alt="Youssef Avatar" />
+<img src="https://github.com/yuseiff.png" width="220" style="border-radius: 50%; border: 4px solid #519F8A;" alt="Youssef Avatar" />
 <br /><br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="100" alt="Rocket Animation" />
 </td>
@@ -115,10 +115,10 @@ Navigation (Tools)
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuseiff&locale=en&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuseiff&locale=en&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="languages graph" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yuseiff&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yuseiff&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="stats graph" />
       </td>
     </tr>
   </table>
@@ -128,7 +128,7 @@ Navigation (Tools)
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=yuseiff&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
-  
+
   <br /><br />
 
   <img src="https://github-profile-trophy.vercel.app/?username=yuseiff&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy graph" />
